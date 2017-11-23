@@ -17,3 +17,4 @@
 "US2KeyConditionViolationPostcodeUK"        = "Skriv inn et gyldig UK postnummer";
 "US2KeyConditionViolationPresent"           = "Skriv inn tekst";
 "US2KeyConditionViolationCreditCard"        = "Enter a valid credit card number";
+"US2KeyConditionViolationPassword"          = "Enter a valid password";

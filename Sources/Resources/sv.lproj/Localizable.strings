@@ -17,3 +17,4 @@
 "US2KeyConditionViolationPostcodeUK"        = "Vänligen ange en postkod giltig i UK";
 "US2KeyConditionViolationPresent"           = "Vänligen ange text";
 "US2KeyConditionViolationCreditCard"        = "Vänligen ange ett giltigt kreditkortsnummer";
+"US2KeyConditionViolationPassword"          = "Enter a valid password";

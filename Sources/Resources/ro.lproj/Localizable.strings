@@ -17,3 +17,4 @@
 "US2KeyConditionViolationPostcodeUK"        = "Introduceți un cod poștal valid din UK ";
 "US2KeyConditionViolationPresent"           = "Introduceți textul";
 "US2KeyConditionViolationCreditCard"        = "Enter a valid credit card number";
+"US2KeyConditionViolationPassword"          = "Enter a valid password";

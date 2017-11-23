@@ -17,3 +17,4 @@
 "US2KeyConditionViolationPostcodeUK"        = "유효한 영국내 우편주소를 입력하세요";
 "US2KeyConditionViolationPresent"           = "글자를 입력하세요";
 "US2KeyConditionViolationCreditCard"        = "Enter a valid credit card number";
+"US2KeyConditionViolationPassword"          = "Enter a valid password";

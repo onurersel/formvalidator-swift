@@ -18,3 +18,4 @@
 "US2KeyConditionViolationPostcodeUK"        = "Enter a valid UK post code";
 "US2KeyConditionViolationPresent"           = "Enter some text";
 "US2KeyConditionViolationCreditCard"        = "Enter a valid credit card number";
+"US2KeyConditionViolationPassword"          = "Enter a valid password";

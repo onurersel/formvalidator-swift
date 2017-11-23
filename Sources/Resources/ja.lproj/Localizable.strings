@@ -17,3 +17,4 @@
 "US2KeyConditionViolationPostcodeUK"        = "正式なUKの郵便番号を入力して下さい。";
 "US2KeyConditionViolationPresent"           = "テキストを入力して下さい。";
 "US2KeyConditionViolationCreditCard"        = "Enter a valid credit card number";
+"US2KeyConditionViolationPassword"          = "Enter a valid password";
