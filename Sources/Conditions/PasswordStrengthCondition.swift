@@ -54,7 +54,7 @@ public struct PasswordStrengthCondition: ConfigurableCondition {
         
         var strength = matches.reduce(0, { $0 + ($1 > 0 ? 1 : 0) })
         
-        if sourceText.count > 8 {
+        if sourceText.count >= configuration.requiredStrength.requiredCharacters {
             strength += 1
         } else {
             strength -= 1
