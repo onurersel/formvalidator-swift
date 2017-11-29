@@ -39,9 +39,9 @@ public struct RangeCondition: ConfigurableCondition {
         guard let sourceText = text else {
             return false
         }
-        
+
         return sourceText.count >= configuration.range.lowerBound &&
-               sourceText.count <= configuration.range.lowerBound.distance(to: configuration.range.upperBound)
+               sourceText.count <= configuration.range.upperBound
     }
     
 }
