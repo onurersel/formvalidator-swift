@@ -41,7 +41,7 @@ public struct RangeCondition: ConfigurableCondition {
         }
 
         return sourceText.count >= configuration.range.lowerBound &&
-               sourceText.count <= configuration.range.upperBound
+               sourceText.count < configuration.range.upperBound
     }
     
 }
